@@ -1,0 +1,27 @@
+C:\Users\kanis\Documents\Centennial\Semester 2\COMP123\Classwork\InClassEx\ElementsSolution\Elements\bin\Debug\Elements.exe.config
+C:\Users\kanis\Documents\Centennial\Semester 2\COMP123\Classwork\InClassEx\ElementsSolution\Elements\bin\Debug\Elements.exe
+C:\Users\kanis\Documents\Centennial\Semester 2\COMP123\Classwork\InClassEx\ElementsSolution\Elements\bin\Debug\Elements.pdb
+C:\Users\kanis\Documents\Centennial\Semester 2\COMP123\Classwork\InClassEx\ElementsSolution\Elements\obj\Debug\Elements.csprojAssemblyReference.cache
+C:\Users\kanis\Documents\Centennial\Semester 2\COMP123\Classwork\InClassEx\ElementsSolution\Elements\obj\Debug\Elements.Properties.Resources.resources
+C:\Users\kanis\Documents\Centennial\Semester 2\COMP123\Classwork\InClassEx\ElementsSolution\Elements\obj\Debug\Elements.csproj.GenerateResource.cache
+C:\Users\kanis\Documents\Centennial\Semester 2\COMP123\Classwork\InClassEx\ElementsSolution\Elements\obj\Debug\Elements.csproj.CoreCompileInputs.cache
+C:\Users\kanis\Documents\Centennial\Semester 2\COMP123\Classwork\InClassEx\ElementsSolution\Elements\obj\Debug\Elements.csproj.CopyComplete
+C:\Users\kanis\Documents\Centennial\Semester 2\COMP123\Classwork\InClassEx\ElementsSolution\Elements\obj\Debug\Elements.exe
+C:\Users\kanis\Documents\Centennial\Semester 2\COMP123\Classwork\InClassEx\ElementsSolution\Elements\obj\Debug\Elements.pdb
+C:\Users\kanis\Documents\Centennial\Semester 2\COMP123\Classwork\InClassEx\ElementsSolution\Elements\obj\Debug\Elements.FormElements.resources
+C:\Users\kanis\Documents\Centennial\Semester 2\COMP123\Classwork\InClassEx\ElementsSolution\Elements\obj\Debug\Elements.FormAddElement.resources
+C:\Users\kanis\Documents\Centennial\Semester 2\COMP123\Classwork\InClassEx\ElementsSolution\Elements\obj\Debug\Elements.FormSearchElement.resources
+C:\Users\kanis\Documents\Centennial\Semester 2\COMP123\Classwork\InClassEx\ElementsSolution\Elements\bin\Debug\Newtonsoft.Json.dll
+C:\Users\300972577\Desktop\ElementsSolution\Elements\bin\Debug\Elements.exe.config
+C:\Users\300972577\Desktop\ElementsSolution\Elements\bin\Debug\Elements.exe
+C:\Users\300972577\Desktop\ElementsSolution\Elements\bin\Debug\Elements.pdb
+C:\Users\300972577\Desktop\ElementsSolution\Elements\bin\Debug\Newtonsoft.Json.dll
+C:\Users\300972577\Desktop\ElementsSolution\Elements\obj\Debug\Elements.csprojResolveAssemblyReference.cache
+C:\Users\300972577\Desktop\ElementsSolution\Elements\obj\Debug\Elements.FormElements.resources
+C:\Users\300972577\Desktop\ElementsSolution\Elements\obj\Debug\Elements.FormAddElement.resources
+C:\Users\300972577\Desktop\ElementsSolution\Elements\obj\Debug\Elements.FormSearchElement.resources
+C:\Users\300972577\Desktop\ElementsSolution\Elements\obj\Debug\Elements.Properties.Resources.resources
+C:\Users\300972577\Desktop\ElementsSolution\Elements\obj\Debug\Elements.csproj.GenerateResource.Cache
+C:\Users\300972577\Desktop\ElementsSolution\Elements\obj\Debug\Elements.csproj.CoreCompileInputs.cache
+C:\Users\300972577\Desktop\ElementsSolution\Elements\obj\Debug\Elements.exe
+C:\Users\300972577\Desktop\ElementsSolution\Elements\obj\Debug\Elements.pdb
